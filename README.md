@@ -1,6 +1,6 @@
-# Index Buffer Rendering: Rendering without Vertex Data
+# Bufferless Rendering: Rendering without Vertex Data
 
-This is an example of using the index buffer to generate geometry within the shader instead of sending a vertex buffer.
+This is an example of using the indices to generate geometry within the shader instead of sending a vertex buffer.
 
 # Setup
 
